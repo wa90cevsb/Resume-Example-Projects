@@ -1,0 +1,2 @@
+# Bleutooth Audio Project
+This was a bluetooth audio project written for a PIC16F15345 device in the MPLAB X IDE.  It was made to run on a circuit board with a bluetooth reciever, auxiliary audio input stream, adjustable potentiometer gain knobs, SPI-controlled volume chips, and a sterio output stream.
