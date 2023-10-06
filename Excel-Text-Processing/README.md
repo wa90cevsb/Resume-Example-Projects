@@ -1,0 +1,2 @@
+# Python Text Parsing Script
+This was a python script I wrote to handle some text parsing and data substitution.  I used it to take .csv outputs from a digital software and convert them into a format that could be read by a pick and place machine that built circuit boards from a list of electronic parts.
